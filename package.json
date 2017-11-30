@@ -1,6 +1,6 @@
 {
   "name": "ember-css-modules-stylelint",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An ember-css-modules plugin that provides Stylelint linting for modules",
   "keywords": [
     "ember-addon",
