@@ -4,7 +4,8 @@
   "description": "An ember-css-modules plugin that provides Stylelint linting for modules",
   "keywords": [
     "ember-addon",
-    "ember-css-modules-plugin"
+    "ember-css-modules-plugin",
+    "ember-css-modules-lint-plugin"
   ],
   "license": "MIT",
   "author": "Dan Freeman",
